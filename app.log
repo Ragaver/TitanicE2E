@@ -1,0 +1,4 @@
+2026-01-09 22:49:43,266 - INFO - src.Data_Ingestion - Success File from path F:\TitanicE2E\data\data.csv is successfully loaded
+2026-01-09 22:49:43,269 - INFO - src.Data_Preprocessing - Success removed duplicates duplicate count 66
+2026-01-09 22:49:43,272 - INFO - src.Data_Preprocessing - Removed columns whose null percent is greater than 70% ['deck']
+2026-01-09 22:49:43,290 - INFO - utils.model - Success SVM model loaded successfully

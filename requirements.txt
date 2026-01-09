@@ -1,2 +1,5 @@
 pytest
 pyyaml
+scikit-learn
+pandas
+numpy

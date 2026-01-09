@@ -1,4 +1,7 @@
+from logger.custom_logger import AppLogger
 import pandas as pd
+
+logger = AppLogger().get_logger(__name__)
 
 def DataIngestion(path):
     """

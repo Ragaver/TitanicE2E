@@ -1,0 +1,23 @@
+continuous: 
+  - age
+  - fare
+
+discrete: 
+- pclass
+- sibsp
+- parch
+
+nominal:
+- sex
+- embarked
+- adult_male
+- alone
+
+ordinal: 
+- who
+
+order: 
+- child
+- woman
+- man
+
